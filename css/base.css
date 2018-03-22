@@ -1,0 +1,28 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	
+}
+body{
+	background-color: #000;
+}
+.btn{
+	padding-left: 20px;
+	padding-right: 20px;
+	background-color: blue;
+	height: 20px;
+	border-radius: 10px;
+	line-height: 20px;
+	color: #fff;
+	cursor: pointer;
+	-webkit-user-select: none;
+}
+.btn:active{
+	background-color: red;
+}
+.float{
+	float: left;
+}
+.clearFloat{
+	clear: both;
+}
