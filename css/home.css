@@ -1,8 +1,8 @@
 .homeContainer{
-	width: 1000px;
+	width: 800px;
 	position: absolute;
 	left: 50%;
-	margin-left: -500px;
+	margin-left: -400px;
 	background-color: #eee;
 }
 .homeBody{
